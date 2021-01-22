@@ -1,0 +1,62 @@
+export const dataCloThe = [
+  {
+    id: "1",
+    name: "First Shirt",
+    image:
+      "https://thuthuatnhanh.com/wp-content/uploads/2019/12/anh-gai-xinh-de-thuong-cap-3-580x580.jpg",
+    price: 10,
+    brand: "Nike",
+    rating: 4.5,
+    numReviews: 100,
+    countInStock: 6,
+  },
+  {
+    id: "2",
+    name: "Second Shirt",
+    image: "/images/d1.jpg",
+    price: 20,
+    brand: "Adidas",
+    rating: 1,
+    numReviews: 1000,
+  },
+  {
+    id: "3",
+    name: "Third Shirt",
+    image: "/images/d1.jpg",
+    price: 30,
+    brand: "Bo",
+    rating: 2.5,
+    numReviews: 1,
+    countInStock: 6,
+  },
+  {
+    id: "4",
+    name: "Four Shirt",
+    image: "/images/d1.jpg",
+    price: 40,
+    brand: "M2",
+    rating: 3,
+    numReviews: 10,
+  },
+  {
+    id: "5",
+    name: "Fine Shirt",
+    image: "/images/d1.jpg",
+    price: 50,
+    brand: "Tokio Life",
+    rating: 4,
+    numReviews: 1000,
+    countInStock: 6,
+  },
+  {
+    id: "6",
+    name: "Six Shirt",
+    image: "/images/d1.jpg",
+    price: 60,
+    brand: "3ce",
+    rating: 5,
+    numReviews: 100,
+  },
+];
+
+export const select = [1, 2, 3, 4];
